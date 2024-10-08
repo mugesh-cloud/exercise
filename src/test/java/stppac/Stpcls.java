@@ -185,7 +185,7 @@ public class Stpcls extends Basclas{
 		public void second_delete_the_women_product() throws InterruptedException {
 			driver.findElement(pom.del).click();
 			
-			Thread.sleep(2000);
+			Thread.sleep(5000);
 			
 
 		}
